@@ -31,6 +31,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  provider: ^6.0.0
+  
   flutter_blue_plus: ^1.31.16
   get: ^4.6.5
   permission_handler: ^10.0.0
